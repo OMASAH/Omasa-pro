@@ -1,0 +1,55 @@
+*{
+
+font-family: changa;
+
+    
+}
+
+#website_header{ 
+color: red;
+direction:ltr;
+font-size: 50px;   
+font-weight: 900; 
+
+}
+
+
+#osos{
+color: #00a8ff;
+direction: rtl;
+font-size: 40px;
+font-weight: 800;
+}
+
+.website_wrapper{
+color: green;
+font-size: 30px;
+border: solid 10px;
+border-color: rgb(156, 206, 21);
+border-radius: 500px;
+
+padding: 50px ;
+
+margin: 40px;
+
+}
+
+h1{ 
+color: #273c75;
+direction: rtl;
+
+
+text-align: right;
+
+float: right;
+}
+
+.example{ 
+
+    width: 200px;
+}
+
+.par{ 
+
+    color: gold;
+}
